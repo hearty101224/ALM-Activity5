@@ -1,1 +1,1 @@
-print("Hello, ALM!")
+print("Development version")
